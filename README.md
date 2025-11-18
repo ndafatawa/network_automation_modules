@@ -88,7 +88,7 @@ Used for:
 
 ---
 
-# 🏁 Final Project  
+#  Final Project  
 **Discover subnet → SSH → Get hostname → Update /etc/hosts**
 
 📁 `subprocess_mastery/final_project/`
@@ -112,78 +112,6 @@ pip install paramiko pyyaml
 ```
 
 ---
-network-automation-python-core-modules/
-│
-├── README.md
-│
-├── subprocess_mastery/
-│   ├── INTRODUCTION.md
-│   ├── examples/
-│   │   ├── ex01_run_ls.py
-│   │   ├── ex02_capture_error.py
-│   │   ├── ex03_devnull_ping.py
-│   │   ├── ex04_shell_true_false.py
-│   │   ├── ex05_timeout.py
-│   │   ├── ex06_parse_ping_latency.py
-│   │   ├── ex07_pipeline_demo.py
-│   │   ├── ex08_ping_sweep.py
-│   │   └── ex09_traceroute_parser.py
-│   ├── final_project/
-│   │   ├── discover_and_update_hosts.py
-│   │   └── README.md
-│   └── SOLUTIONS.md
-│
-├── paramiko_ssh/
-│   ├── basics_ssh.md
-│   ├── examples/
-│   │   ├── simple_ssh_command.py
-│   │   ├── ssh_send_config.py
-│   │   ├── ssh_backup_show_run.py
-│   │   └── ssh_parallel_devices.py
-│   └── SOLUTIONS.md
-│
-├── os_sys_pathlib/
-│   ├── os_basics.md
-│   ├── pathlib_basics.md
-│   └── examples/
-│       ├── create_directories.py
-│       ├── list_files.py
-│       ├── env_variables.py
-│       └── sys_arguments_demo.py
-│
-├── parsing_and_data/
-│   ├── json_basics.md
-│   ├── yaml_basics.md
-│   ├── csv_basics.md
-│   ├── regex_basics.md
-│   └── examples/
-│       ├── parse_json_inventory.py
-│       ├── parse_yaml_devices.py
-│       ├── parse_csv_vlans.py
-│       └── regex_find_ip.py
-│
-├── ipaddress_module/
-│   ├── ip_basics.md
-│   └── examples/
-│       ├── subnet_calculator.py
-│       ├── validate_ip.py
-│       └── generate_ip_range.py
-│
-├── concurrency/
-│   ├── threading_basics.md
-│   ├── futures_basics.md
-│   ├── multiprocessing.md
-│   └── examples/
-│       ├── parallel_ping_sweep.py
-│       ├── parallel_ssh_commands.py
-│       └── cpu_parallel_demo.py
-│
-└── argparse_and_logging/
-    ├── argparse_basics.md
-    ├── logging_basics.md
-    └── examples/
-        ├── script_with_arguments.py
-        └── logging_demo.py
 
-# 👨‍💻 Author  Tawanda Ndafa
-Created for deep learning and real-world network automation.
+# 👨‍💻 Author  Tawanda
+
