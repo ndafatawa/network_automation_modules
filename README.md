@@ -13,7 +13,7 @@ It includes:
 
 #  Modules Covered
 
-## 1️⃣ subprocess — Run Linux Commands from Python  
+## 1️ subprocess — Run Linux Commands from Python  
 Used for:
 - Ping sweeps
 - OS commands
@@ -21,77 +21,77 @@ Used for:
 - Device discovery
 - Parsing CLI utilities
 
-📁 Folder: `subprocess_mastery/`
+ Folder: `subprocess_mastery/`
 
 ---
 
-## 2️⃣ paramiko — SSH into network devices  
+## 2️ paramiko — SSH into network devices  
 Used for:
 - Sending configs (Arista, Cisco, FortiGate, JunOS)
 - Gathering show outputs
 - Backups
 
-📁 Folder: `paramiko_ssh/`
+ Folder: `paramiko_ssh/`
 
 ---
 
-## 3️⃣ os, sys, pathlib — File system control  
+## 3️ os, sys, pathlib — File system control  
 Used for:
 - Directory creation
 - Reading config files
 - Working with paths
 - CLI arguments
 
-📁 Folder: `os_sys_pathlib/`
+ Folder: `os_sys_pathlib/`
 
 ---
 
-## 4️⃣ json, yaml, csv, re — Parsing data  
+## 4️ json, yaml, csv, re — Parsing data  
 Used for:
 - Device inventory
 - Network models
 - Parsing configs
 - Rule extraction
 
-📁 Folder: `parsing_and_data/`
+ Folder: `parsing_and_data/`
 
 ---
 
-## 5️⃣ ipaddress — IP logic  
+## 5️ ipaddress — IP logic  
 Used for:
 - Subnets
 - Validation
 - IP ranges
 - Prefix calculations
 
-📁 Folder: `ipaddress_module/`
+ Folder: `ipaddress_module/`
 
 ---
 
-## 6️⃣ concurrent.futures & multiprocessing  
+## 6️ concurrent.futures & multiprocessing  
 Used for:
 - Parallel SSH
 - Parallel pings
 - Faster network scanning
 
-📁 Folder: `concurrency/`
+ Folder: `concurrency/`
 
 ---
 
-## 7️⃣ argparse & logging  
+## 7️ argparse & logging  
 Used for:
 - Professional scripts
 - Debug logs
 - CLI automation tools
 
-📁 Folder: `argparse_and_logging/`
+ Folder: `argparse_and_logging/`
 
 ---
 
 #  Final Project  
 **Discover subnet → SSH → Get hostname → Update /etc/hosts**
 
-📁 `subprocess_mastery/final_project/`
+ `subprocess_mastery/final_project/`
 
 ---
 
