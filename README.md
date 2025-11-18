@@ -13,7 +13,7 @@ It includes:
 
 #  Modules Covered
 
-## 1️ subprocess — Run Linux Commands from Python  
+## 1 subprocess — Run Linux Commands from Python  
 Used for:
 - Ping sweeps
 - OS commands
@@ -25,7 +25,7 @@ Used for:
 
 ---
 
-## 2️ paramiko — SSH into network devices  
+## 2 paramiko — SSH into network devices  
 Used for:
 - Sending configs (Arista, Cisco, FortiGate, JunOS)
 - Gathering show outputs
@@ -35,7 +35,7 @@ Used for:
 
 ---
 
-## 3️ os, sys, pathlib — File system control  
+## 3 os, sys, pathlib — File system control  
 Used for:
 - Directory creation
 - Reading config files
@@ -46,7 +46,7 @@ Used for:
 
 ---
 
-## 4️ json, yaml, csv, re — Parsing data  
+## 4 json, yaml, csv, re — Parsing data  
 Used for:
 - Device inventory
 - Network models
@@ -57,7 +57,7 @@ Used for:
 
 ---
 
-## 5️ ipaddress — IP logic  
+## 5 ipaddress — IP logic  
 Used for:
 - Subnets
 - Validation
@@ -68,7 +68,7 @@ Used for:
 
 ---
 
-## 6️ concurrent.futures & multiprocessing  
+## 6 concurrent.futures & multiprocessing  
 Used for:
 - Parallel SSH
 - Parallel pings
@@ -78,7 +78,7 @@ Used for:
 
 ---
 
-## 7️ argparse & logging  
+## 7 argparse & logging  
 Used for:
 - Professional scripts
 - Debug logs
@@ -95,14 +95,6 @@ Used for:
 
 ---
 
-#  Target Audience  
-- Beginner → Intermediate Network Engineers  
-- ACI / NX-OS / Arista / Juniper automation  
-- Python learners  
-- DevNet / Network+ automation students  
-
----
-
 # ⚙ Requirements
 
 Install dependencies:
@@ -112,6 +104,3 @@ pip install paramiko pyyaml
 ```
 
 ---
-
-# 👨‍💻 Author  Tawanda
-
